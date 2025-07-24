@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 18 or later
+######
+- JDK 21
 - Maven 3.9 or later
 - MySQL 8 or later
 
