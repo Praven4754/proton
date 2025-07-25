@@ -9,7 +9,7 @@
 - Spring Security
 - Spring Data JPA
 - Maven
-- JSP
+- JVM
 - Tomcat
 - MySQL
 - Memcached
